@@ -14,7 +14,7 @@ Desafio do modulo 05 do curso da  XPE.
 
 ## Onde foi estudado ? :scroll:
 
-- XPEducação: https://www.xpeducacao.com.br/?gclid=CjwKCAjwpuajBhBpEiwA_ZtfhbgUkrdqDLjvhUhC42r9O90EvWBuSf3Vu0nWzqUgRnTDTfiKG4EDuhoCosYQAvD_BwE
+- XPEducação: https://www.xpeducacao.com.br/
 
 ## Tecnologias utilizadas
 
