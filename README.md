@@ -24,6 +24,7 @@ Desafio do modulo 05 do curso da  XPE.
 - React
 - TypeScript
 - Styled Components
+- React Query
 
 ## Autor
 
